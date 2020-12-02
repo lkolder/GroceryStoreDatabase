@@ -2,7 +2,7 @@ import java.util.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-public class DataWrangler{
+public class FileReader{
   private static BackEndDeveloper backEnd;
   public DataWrangler(BackEndDeveloper backEnd) {
     this.backEnd = backEnd;
